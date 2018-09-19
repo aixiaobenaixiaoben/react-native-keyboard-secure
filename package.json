@@ -1,0 +1,23 @@
+{
+  "name": "react-native-keyboard-secure",
+  "version": "1.0.1",
+  "description": "React Native Keyboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aixiaobenaixiaoben/react-native-keyboard-secure"
+  },
+  "keywords": [
+    "react-native",
+    "keyboard"
+  ],
+  "author": "aixiaobenaixiaoben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aixiaobenaixiaoben/react-native-keyboard-secure/issues"
+  },
+  "homepage": "https://github.com/aixiaobenaixiaoben/react-native-keyboard-secure#readme"
+}
